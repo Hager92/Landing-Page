@@ -17,7 +17,3 @@ A modern landing page built with HTML, CSS, designed to provide a smooth user ex
 
 * HTML5 – Structure and semantic markup
 * CSS3 (Flexbox & Grid) – Layout and styling
-
----
-
-Author: [Hager Tamer](https://github.com/Hager92)
